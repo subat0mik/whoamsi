@@ -1,4 +1,4 @@
-The purpose of this wiki is to be a repository of endpoint protection (AV, EDR, etc) that uses Microsoft's Antimalware Scan Interface (AMSI). This will provide some context around endpoint protection and possible attack vectors. Products with information missing have not been verified yet. This project expands on the work done by [@Lee_Holmes](https://twitter.com/Lee_Holmes) and [@PyroTek3](https://twitter.com/PyroTek3) by keeping a publicly available list up-to-date. 
+The purpose of this page is to be a repository of endpoint protection (AV, EDR, etc) that uses Microsoft's Antimalware Scan Interface (AMSI). This will provide some context around endpoint protection and possible attack vectors. Products with information missing have not been verified yet. This project expands on the work done by [@Lee_Holmes](https://twitter.com/Lee_Holmes) and [@PyroTek3](https://twitter.com/PyroTek3) by keeping a publicly available list up-to-date. 
 
 
 
