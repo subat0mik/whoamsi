@@ -20,7 +20,7 @@ The purpose of this page is to be a repository of endpoint protection (AV, EDR, 
 | McAfee | Y | 06/25/2018 | https://kc.mcafee.com/corporate/index?page=content&id=PD27443
 | Panda | | | |
 | SentinelOne | | | |
-| Sophos    |   Y  | 08/25/20    | https://support.sophos.com/support/s/article/KB-000039096?language=en_US
+| Sophos    |   Y  | 08/25/20    | https://support.sophos.com/support/s/article/KB-000039096?language=en_US Thank, [@kmkz](https://github.com/kmkz)!|
 | Symantec | Y | 07/15/2020 | https://techdocs.broadcom.com/content/broadcom/techdocs/us/en/symantec-security-software/endpoint-security-and-management/endpoint-protection/all/release-notes/Whats-new-for-Symantec-Endpoint-Protection-14_3-.html Thanks, [Jeff McJunkin](https://github.com/jeffmcjunkin)!|
 | ThreatTrack Vipre | | | |
 | Trend Micro | | | |
