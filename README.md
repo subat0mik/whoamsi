@@ -10,7 +10,7 @@ The purpose of this page is to be a repository of endpoint protection (AV, EDR, 
 | BitDefender Consumer | Y | 09/20/2016 | https://forum.bitdefender.com/index.php?/topic/72455-antimalware-scan-service/
 | BitDefender Enterprise | N | 04/05/2019 | https://forum.bitdefender.com/index.php?/topic/79653-does-best-support-antimalware-scan-interface-amsi/
 | Carbon Black Defense | Y | 03/18/2020 | https://www.carbonblack.com/2020/03/18/detecting-fileless-attacks-with-enterprise-edrs-amsi-visibility/|
-| CrowdStrike Falcon | | | |
+| CrowdStrike Falcon | Y | 12/18/2018 | https://www.freepatentsonline.com/y2019/0188384.html |
 | Cybereason | | | |
 | Cylance | | | |
 | Dr. Web |  | |
