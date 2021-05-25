@@ -24,7 +24,7 @@ The purpose of this page is to be a repository of endpoint protection (AV, EDR, 
 | McAfee | Y | 06/25/2018 | https://kc.mcafee.com/corporate/index?page=content&id=PD27443
 | Palo Alto Networks | | | |
 | Panda | | | |
-| SentinelOne | | | |
+| SentinelOne | Y | 10/14/2020 | https://support.sentinelone.com/hc/en-us/articles/1500005256241-How-the-SentinelOne-Agent-uses-Microsoft-AMSI-for-Detection |
 | Sophos    |   Y  | 08/25/20    | https://support.sophos.com/support/s/article/KB-000039096?language=en_US Thanks, [@kmkz](https://github.com/kmkz)!|
 | Symantec | Y | 07/15/2020 | https://techdocs.broadcom.com/content/broadcom/techdocs/us/en/symantec-security-software/endpoint-security-and-management/endpoint-protection/all/release-notes/Whats-new-for-Symantec-Endpoint-Protection-14_3-.html Thanks, [Jeff McJunkin](https://github.com/jeffmcjunkin)!|
 | Trend Micro | Y | | https://cloudone.trendmicro.com/docs/workload-security/anti-malware-scan-configure/ |
