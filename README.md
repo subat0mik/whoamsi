@@ -12,7 +12,7 @@ The purpose of this page is to be a repository of endpoint protection (AV, EDR, 
 | Check Point | Y | 01/03/2019 | https://community.checkpoint.com/t5/Endpoint/Endpoint-Security-E80-90-Client-released/m-p/20613#M460 |
 | Comodo | Y | | https://help.comodo.com/uploads/helpers/Comodo_Client_Security_11.3_User_Guide.pdf |
 | CrowdStrike Falcon | Y | 12/18/2018 | https://www.freepatentsonline.com/y2019/0188384.html |
-| Cybereason | | | |
+| Cybereason | Y | 11/30/2021 | https://www.cybereason.com/blog/cybereason-v21.1-lts-advancing-prevention-detection-and-response |
 | Cylance | | | |
 | Endgame | | | |
 | ESET | Y | 04/12/2017 | https://forum.eset.com/topic/11645-beta-eset-endpoint-security-66-is-available-for-evaluation
