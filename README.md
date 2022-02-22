@@ -14,7 +14,7 @@ The purpose of this page is to be a repository of endpoint protection (AV, EDR, 
 | CrowdStrike Falcon | Y | 12/18/2018 | https://www.freepatentsonline.com/y2019/0188384.html |
 | Cybereason | Y | 11/30/2021 | https://www.cybereason.com/blog/cybereason-v21.1-lts-advancing-prevention-detection-and-response |
 | Cylance | | | |
-| Endgame | | | |
+| Elastic | | | |
 | ESET | Y | 04/12/2017 | https://forum.eset.com/topic/11645-beta-eset-endpoint-security-66-is-available-for-evaluation
 | F-Secure | Y | | https://help.f-secure.com/product.html?business/computer-protection-windows/latest/en/task_ED11EEBB08DD4583AFA13EA59D3FC768-latest-en |
 | FireEye | Y | 04/26/2021 | https://www.fireeye.com/blog/products-and-services/2021/04/everybody-wins-in-mitre-attack-evaluations.html |
