@@ -22,7 +22,7 @@ The purpose of this page is to be a repository of endpoint protection (AV, EDR, 
 | Kaspersky | Y | 10/10/2018 | https://help.kaspersky.com/KIS/2019/en-US/119653.htm |
 | MalwareBytes | | |
 | McAfee | Y | 06/25/2018 | https://kc.mcafee.com/corporate/index?page=content&id=PD27443
-| Palo Alto Networks | | | |
+| Palo Alto Networks Cortex| Y | 2/9/2021 | https://www.paloaltonetworks.com/blog/security-operations/stopping-powershell-without-powershell/#:~:text=In%20addition%2C%20the%20Cortex%20XDR%20Agent%20features%20Behavioral%20Threat%20Protection%20modules%20leveraging%20the%20Anti%2DMalware%20Scan%20Interface%20(AMSI)%20to%20block%20PowerShell%20scripts. |
 | Panda | | | |
 | SentinelOne | Y | 10/14/2020 | https://support.sentinelone.com/hc/en-us/articles/1500005256241-How-the-SentinelOne-Agent-uses-Microsoft-AMSI-for-Detection |
 | Sophos    |   Y  | 08/25/20    | https://support.sophos.com/support/s/article/KB-000039096?language=en_US Thanks, [@kmkz](https://github.com/kmkz)!|
