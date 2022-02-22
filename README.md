@@ -8,7 +8,7 @@ The purpose of this page is to be a repository of endpoint protection (AV, EDR, 
 | AVG | Y | 03/08/2016 | https://support.avg.com/answers?id=906b00000008oUTAAY
 | BitDefender Consumer | Y | 09/20/2016 | https://forum.bitdefender.com/index.php?/topic/72455-antimalware-scan-service/
 | BitDefender Enterprise | Y | 05/25/2021 | https://twitter.com/Bitdefender_Ent/status/1397187195669295111?s=20
-| Blackberry Optics (Cylance) | | | |
+| Blackberry Optics (Cylance) | Y | | https://docs.blackberry.com/content/dam/docs-blackberry-com/release-pdfs/en/blackberry-optics/2-5/CylanceOPTICS-Admin-Guide.pdf |
 | Carbon Black | Y | 03/18/2020 | https://www.carbonblack.com/2020/03/18/detecting-fileless-attacks-with-enterprise-edrs-amsi-visibility/|
 | Check Point Harmony Endpoint | Y | 01/03/2019 | https://community.checkpoint.com/t5/Endpoint/Endpoint-Security-E80-90-Client-released/m-p/20613#M460 |
 | Cisco Secure Endpoint | | | |
