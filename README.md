@@ -22,7 +22,7 @@ The purpose of this page is to be a repository of endpoint protection (AV, EDR, 
 | FireEye HX | Y | 04/26/2021 | https://www.fireeye.com/blog/products-and-services/2021/04/everybody-wins-in-mitre-attack-evaluations.html |
 | Fortinet | Y | | https://docs.fortinet.com/document/forticlient/6.4.3/ems-administration-guide/447132/malware-protection |
 | Kaspersky Anti Targeted Attack Platform | Y | 10/10/2018 | https://help.kaspersky.com/KIS/2019/en-US/119653.htm |
-| MalwareBytes | | |
+| MalwareBytes | Y | 22/10/2024 | https://help.malwarebytes.com/hc/en-us/articles/31589473738779-Desktop-Security-for-Windows-version-5-2-0-140
 | McAfee | Y | 06/25/2018 | https://kc.mcafee.com/corporate/index?page=content&id=PD27443
 | Palo Alto Networks Cortex | Y | 2/9/2021 | https://www.paloaltonetworks.com/blog/security-operations/stopping-powershell-without-powershell/#:~:text=In%20addition%2C%20the%20Cortex%20XDR%20Agent%20features%20Behavioral%20Threat%20Protection%20modules%20leveraging%20the%20Anti%2DMalware%20Scan%20Interface%20(AMSI)%20to%20block%20PowerShell%20scripts. |
 | Panda Adaptive Defense 360 | | | |
